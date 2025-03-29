@@ -1,88 +1,91 @@
-1 Aesi, Tyrant of Gyre Strait (PLST) CMR-365
-1 Afterlife from the Loam (TDC) 25
-1 Animate Dead (5ED) 140
-1 Arcane Denial (DRC) 70
-1 Arcane Signet (ELD) 331
-1 Auroral Procession (TDM) 169
-1 Cephalid Coliseum (MH3) 300
-1 Chthonian Nightmare (MH3) 330
-1 Colossal Grave-Reaver (TDC) 50
-1 Command Beacon (OTC) 279
-1 Command Tower (ELD) 333
-1 Conduit of Worlds (ONE) 163
-1 Counterspell (DMR) 281
-1 Craterhoof Behemoth (TDM) 404 *F*
-1 Darkwater Catacombs (CM2) 244
-1 Death Begets Life (TDM) 406
-1 Deathrite Shaman (RVR) 363
-1 Dread Return (CMM) 153
-1 Dreamroot Cascade (INR) 277
-1 Drownyard Temple (C19) 240
-1 Eternal Witness (M3C) 227
-1 Evolving Wilds (LCC) 328
-1 Exotic Orchard (C19) 242
+Commander: Tuvasa the Sunlit
+1 Abundant Growth (PIP) 194
+1 Adarkar Wastes (DMU) 377
+1 All That Glitters (CMM) 622
+1 Ancestral Mask (MMQ) 229
+1 Aqueous Form (THS) 39
+1 Archon of Sun's Grace (CMM) 814
+1 Armadillo Cloak (INV) 229
+1 Aura of Silence (C15) 60
+1 Aura Shards (PLST) INV-233
+1 Authority of the Consuls (KLD) 5
+1 Bear Umbra (ROE) 177
+1 Blind Obedience (WOT) 1
+1 Brushland (BRO) 298
+1 Calix, Guided by Fate (MAT) 26
+1 Canopy Vista (NCC) 389
+1 Command Tower (CLB) 351
+1 Darksteel Mutation (CMM) 623
+1 Dawn's Truce (BLB) 295
+1 Deserted Beach (MID) 281
+1 Destiny Spinner (THB) 168
+1 Dreamroot Cascade (VOW) 282
+1 Dryad of the Ilysian Grove (M3C) 225
+1 Eidolon of Blossoms (C18) 140
+1 Enchanted Evening (PLST) SHM-140
+1 Enchantress's Presence (CMM) 893
+1 Enlightened Tutor (DMR) 412
+1 Entity Tracker (PDSK) 53p
+1 Estrid, the Masked (SLD) 1327 *F*
+1 Estrid's Invocation (SLD) 1325 *F*
+1 Ethereal Armor (RTR) 9
+1 Exotic Orchard (WHO) 493
 1 Fabled Passage (BLB) 367
-1 Fangkeeper's Familiar (TDM) 183
-1 Fetid Pools (WHO) 277
-1 Foreboding Landscape (MH3) 221
-6 Forest (ELD) 266
-1 Golgari Rot Farm (CLU) 236
-1 Grapple with the Past (PLST) C18-148
-1 Gravecrawler (INR) 380
-1 Grisly Salvage (CMA) 178
-1 Haunted Mire (DMU) 248
-1 Hedge Shredder (DSK) 183
-1 Hedron Crab (PLST) ZEN-47
-1 Hermit Druid (INR) 202
-1 Hinterland Harbor (LTC) 317
-1 Illicit Masquerade (MKM) 88
-1 Insidious Roots (MKM) 313
-4 Island (UND) 89
-1 Kagha, Shadow Archdruid (CLB) 279
-1 Kishla Trawlers (TDM) 50
-1 Lethal Scheme (NCC) 36
-1 Life from the Loam (SLD) 8
-1 Lightning Greaves (CMD) 253
-1 Living Death (PLIST) 103
-1 Llanowar Wastes (OTC) 305
-1 Lost Monarch of Ifnir (DRC) 27
-1 Lotuslight Dancers (TDM) 363
-1 Lumra, Bellow of the Woods (PBLB) 183p
-1 Malevolent Rumble (MH3) 161
-1 Meren of Clan Nel Toth (CMM) 346
-1 Molt Tender (DFT) 171
-1 Muldrotha, the Gravetide (2X2) 384
-1 Myriad Landscape (C19) 261
-1 Naga Fleshcrafter (TDM) 52
-1 Nature's Rhythm (TDM) 150
-1 Opulent Palace (C20) 295
-1 Putrefy (PLST) GK1-68
-1 Ramunap Excavator (M3C) 241
-1 Reanimate (DSC) 155
-1 Regrowth (STA) 56
-1 Ripples of Undeath (MH3) 107
-1 Rise of the Dark Realms (FDN) 323 *F*
-1 Sidisi, Brood Tyrant (2X2) 276
-1 Six (MH3) 169
-1 Skull Prophet (IKO) 206
-1 Sol Ring (C19) 221
-1 Stitcher's Supplier (TDC) 196
-1 Sunken Hollow (C19) 278
-5 Swamp (UND) 91
-1 Swan Song (C16) 98
-1 Tatyova, Benthic Druid (DSC) 235
-1 Tear Asunder (DMU) 183
-1 Temple of Malady (M21) 253
-1 Terramorphic Expanse (CMR) 357
-1 Teval's Judgment (TDC) 28
-1 The Gitrog Monster (INR) 431
-1 Timeless Witness (MH2) 358
-1 Titans' Nest (IKO) 212
-1 Tortured Existence (STH) 74
-1 Undead Butler (J25) 500
-1 Uro, Titan of Nature's Wrath (SLD) 222
-1 Victimize (EMA) 113
-1 Wonder (MH2) 271
-1 Woodland Cemetery (DOM) 248
-1 World Shaper (OTC) 214
-1 Teval, the Balanced Scale (TDC) 8
+1 Farewell (WHO) 207
+1 Fertile Ground (BRB) 26
+2 Forest (WOE) 266
+2 Forest (WOE) 266 *F*
+1 Forest (ONE) 271 *F*
+1 Forest (WOE) 275
+1 Forest (WOE) 276 *F*
+1 Forest (J25) 93
+1 Ghostly Prison (MKC) 67
+1 Glacial Fortress (WHO) 285
+1 Grasp of Fate (WOT) 3
+1 Hallowed Haunting (DBL) 284
+1 Herald of the Pantheon (C18) 151
+1 Hinterland Harbor (DMR) 396
+1 Idyllic Tutor (MOR) 12
+1 Inquisitive Glimmer (DSK) 217
+4 Island (J25) 84
+1 Jukai Naturalist (NEO) 510
+1 Kenrith's Transformation (AFC) 162
+1 Mesa Enchantress (SLD) 282
+1 Mirari's Wake (MH2) 291
+1 Mirrormade (DSC) 120
+1 Overgrown Farmland (MID) 283
+1 Overgrowth (STH) 111
+1 Path to Exile (CMM) 626
+2 Plains (WOE) 262 *F*
+4 Plains (WOE) 262
+1 Plains (WOE) 267 *F*
+1 Prairie Stream (BRC) 193
+1 Privileged Position (2X2) 263
+1 Propaganda (C20) 123
+1 Rancor (2X2) 156 *F*
+1 Sanctum Weaver (MH2) 462
+1 Satyr Enchanter (CMM) 936
+1 Seal of Cleansing (MKC) 80
+1 Seal of Primordium (PLC) 153
+1 Seaside Citadel (BLC) 329
+1 Setessan Champion (THB) 198
+1 Sheltered by Ghosts (DSK) 30
+1 Shield of the Oversoul (SHM) 242
+1 Sigil of the Empty Throne (J22) 244
+1 Spara's Headquarters (SNC) 293
+1 Sphere of Safety (SLD) 588 *F*
+1 Spirit Mantle (M12) 35
+1 Starfield Mystic (M20) 39
+1 Steel of the Godhead (PLST) SHM-150
+1 Sterling Grove (MH2) 293
+1 Strength of the Harvest / Haven of the Harvest (MH3) 258
+1 Sunpetal Grove (PLST) M10-228
+1 Swords to Plowshares (LTC) 178
+1 Sythis, Harvest's Hand (PLST) MH2-214
+1 Unflinching Courage (PLST) C18-192
+1 Unquestioned Authority (JUD) 31
+1 Utopia Sprawl (WOT) 63 *F*
+1 Verduran Enchantress (9ED) 279
+1 Wild Growth (ICE) 277
+1 Yavimaya Coast (DMU) 382
+1 Yenna, Redtooth Regent (WOE) 219
