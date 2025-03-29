@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated data files
+*.json
+deck_data.json
+processed_deck_data.json
